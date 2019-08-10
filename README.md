@@ -18,14 +18,6 @@ personal research in Anime workflow
 
 其他，音乐创作，背景美术，摄影后期，3DCG）也有独特的风格，这里暂且不展开论述
 
-### 资料
-
-2000年左右，赛璐珞cel摄影被数码摄影代替
-
-2010年左右，数码作画大幅代替纸上作画
-
-2014年左右，3DCG逐渐代替过于复杂，高昂成本的人工作画cut部分
-
 ### 独特的演出与叙事方式 - GALGAME
 以故事、角色为卖点，游戏性/互动性单一，高度依赖于二次元文化，几乎只有日本人在制作Galgame 
 
@@ -44,13 +36,10 @@ Galgame的演出的要求是要以最低的制作成本达成尽可能高的视�
 ## keywords
 动漫 工作流 制作 视觉语言 可计算 逆向工程 素材 二次创作
 
-## paper
-Computational manga and anime. SIGGRAPH Asia 2013 Courses
-
 ## 日式动画制作流程（参考《アニメを仕事に! トリガー流アニメ制作進行読本》
 剧本脚本->**（分镜演出->设定->layout原画）**->色彩指定->美术背景->动画（清稿）->上色->摄影->配音
 
-分镜（picture action dialogue）
+分镜由演出家绘制，视觉版的脚本 storyboard/cut - （picture 形 action 事 dialogue 语言）
 
 剧情->动作与形->细节/关键帧->动画
 
@@ -68,22 +57,38 @@ Computational manga and anime. SIGGRAPH Asia 2013 Courses
 摄影
 
 ## 逆向工程关键实现
-移除字幕
+字幕移除
 
-### 通过鉴别-移除作画无关的特征
+### 作画无关
 
 goal：演出，人物设定，色彩指定
 
-移除：摄影后期特效，3DCG，摄影指定（panorama，sliding...），背景，配音
+defficet：摄影后期特效，3DCG，摄影指定（panorama，sliding...），配音音效
 
-前景sheet，手工作画
+抽出前景sheet - 动画线稿 人物色指定
 
-背景BG，美术设定
+抽出背景BG - 美术设定
 
-动画的后期摄影合成，前景和背景制作不同，根据色彩进行拆分，得到前景人物与背景序列
+高层语义抽出 - 演出 剧本
 
+### method
+1. 动画的后期摄影合成，前景和背景制作不同，根据此抽出，得到前景与背景序列
+
+2. 标记少量前景角色，细分角色区域，并训练分类模型，分离所有角色动作帧
+
+3. 动作帧关键帧抽出，分类
+
+TODO
 
 ### 寻找不变元素
 基于reference
 
 Graph Matching based Anime Colorization with Multiple References
+
+基于数据本征态
+## deep-image-prior
+neural networks but without learning
+
+## double-dip
+without learning 
+
