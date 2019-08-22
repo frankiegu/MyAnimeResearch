@@ -4,7 +4,11 @@ personal research in Anime workflow
 ## Abstract
 日式动画（アニメ）制作已经高度分工化，每一个步骤都拥有极高的水平
 
-作画的创作方式，作为特有的一种艺术风格（日式漫画创作
+作画的创作方式，作为特有的一种艺术风格
+
+> 日式漫画创作，shoujo bishoujo manga
+
+> 萌系动漫 ：大而有表现力的**眼睛**，夸张的动作，专注在头发和脸部特征上（moe anime evolution）
 
 不同与美式，drama，等其它影视作品的剧情设计
 
@@ -83,6 +87,17 @@ defficet：摄影后期与特效，3DCG，摄影指定（panorama，sliding...�
 2. 标记少量前景角色，细分角色区域，并训练分类模型，分离所有角色动作帧
 
 3. 动作帧关键帧抽出，分类
+
+### Anime Face Recognition
+  + Face Part Segmentation (Eyes & Hair)
+  + Eyes & Hair Color Distribution Calculation with Deep Learning
+
+#### Algorithms:
+
+Face Detection (Faster RCNN)
+Semantic Segmentation (Segnet variant)
+Color Distribution (K-Means)
+
 
 ### 寻找不变元素
 基于reference
