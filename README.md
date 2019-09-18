@@ -60,18 +60,28 @@ Galgame的演出的要求是要以最低的制作成本达成尽可能高的视�
 动画
 摄影
 
+## overview and survey 研究调查
+2013 颜检出，图割向量化
+
+2014 waifu2x SR超分
+
+2016 vanilla GAN（ACGAN,DCGAN,VAE）
+
+2017 getchu danbroou dataset，动漫角色生成，自动上色，线稿提取，自动中割
+
+2018 高分辨率动漫角色生成，styleGAN-anime
+
+2019 waifulab sel2anime 等
+
+
 ## 逆向工程关键实现
-字幕移除
-
-寻找动漫识别的通用模型
-
 ### Our Approach
-对于作画艺术，可能需要学习作画者的时间序列（CNN+RNN，LSTM+强化学习），或者本身存在一种概率分布（GAN）
+对于作画艺术，需要学习作画者的时间序列（CNN+RNN，LSTM）
 
-更由于数码作画与后期的离散性，我们需要一种通用模型能够抽取以下特征
+由于数码作画与后期的离散性，我们需要一种通用模型能够抽取以下特征
 
 
-goal：演出，人物设定，色彩指定
+goal：演出（人物动作即中割），人物设定，色彩指定
 
 defficet：摄影后期与特效，3DCG，摄影指定（panorama，sliding...），配音音效
 
@@ -98,16 +108,4 @@ Face Detection (Faster RCNN)
 Semantic Segmentation (Segnet variant)
 Color Distribution (K-Means)
 
-
-### 寻找不变元素
-基于reference
-
-Graph Matching based Anime Colorization with Multiple References
-
-基于数据本征态
-## deep-image-prior
-neural networks but without learning
-
-## double-dip
-without learning
 
