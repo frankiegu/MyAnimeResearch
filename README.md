@@ -98,15 +98,3 @@ defficet：摄影后期与特效，3DCG，摄影指定（panorama，sliding...�
 2. 标记少量前景角色，细分角色区域，并训练分类模型，分离所有角色动作帧
 
 3. 动作帧关键帧抽出，分类
-
-### Anime Face Recognition
-  + Face Part Segmentation (Eyes & Hair)
-  + Eyes & Hair Color Distribution Calculation with Deep Learning
-
-#### Algorithms:
-
-Face Detection (Faster RCNN)
-Semantic Segmentation (Segnet variant)
-Color Distribution (K-Means)
-
-
