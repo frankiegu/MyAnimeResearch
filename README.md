@@ -3,6 +3,8 @@ personal research in Anime workflow
 
 English version TODO. you can use translator.
 
+## 已开附录，请见仓库里的其他readme(.md)文件
+
 ## Abstract
 日式动画（アニメ）制作已经高度分工化，每一个步骤都拥有极高的水平
 
