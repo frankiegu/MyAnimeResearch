@@ -17,3 +17,5 @@
 [King AMUSEMENT - official supporting site](http://king-cr.jp/special/)
 
 [EN-CN anime pair](http://web.archive.org/web/*/http://www.roame.net/index)
+
+[我的 x乎-动漫深度图像处理 专栏](https://www.zhihu.com/column/c_1237752026266136576)
