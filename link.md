@@ -19,3 +19,12 @@
 [EN-CN anime pair](http://web.archive.org/web/*/http://www.roame.net/index)
 
 [我的 x乎-动漫深度图像处理 专栏](https://www.zhihu.com/column/c_1237752026266136576)
+
+### 工程目标
+[gwern works (danbooru2019 etc.)](https://www.gwern.net/Crops#danbooru2019-portraits)
+
+[DAVIS Challenge](https://davischallenge.org)
+
+[coview2019](http://cvlab.hanyang.ac.kr/coview2019/)
+
+[THUMOS](https://www.crcv.ucf.edu/THUMOS14/download.html)
