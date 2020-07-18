@@ -27,6 +27,7 @@
 标注不仅仅是使用，类别labels，bbox，像素级pixel labels，也可以使用诸如[Point](https://arxiv.org/abs/1506.02106)这样的标注，分任务所需
 
 #### 标注采集
+TV series（电视剧），时空不连续但语义上下文连续的艺术方法
 标注AVA（原子片段）采集定义 （背景，镜头无变化，前景人物变化）~ 场景切割 = 打时轴（标注工具的实现等价）
 
 不同于通用视频目标跟踪，动作识别等（video_labeler，vatic，UltimateLabeling），固定镜头，保留了时空上的连续性
