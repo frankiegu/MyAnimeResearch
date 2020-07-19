@@ -1,7 +1,7 @@
 # AnimeResearch
 personal research in Anime workflow field
 
-English version TODO. you can use translator.
+### English version not support. try use translator(?)
 
 Read more? in repository resources
 
