@@ -13,3 +13,6 @@ The show format maybe confusing, please open readme file using raw mode.
 ## 格式混乱，请用raw模式打开(.md)文件
 ### [关于动画&标注系统的设计.md](https://github.com/huaji0353/AnimeResearch/blob/master/dataset_system_plan.md)
 
+Share your idea at Twitter with hashtag #AnimeResearch or #deeplearningloveanime.
+
+如果你对相关研究感兴趣或提出什么idea，可以在twitter hashtag上发动态 #AnimeResearch or #deeplearningloveanime
