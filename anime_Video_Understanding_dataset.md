@@ -11,8 +11,9 @@
 > 《生成评论（AI作豚（误）），动漫章节数据库》
 
 * Effects_Transition：是shot（镜头）切换（过渡）的标注
-> 硬切，与其他 （渐进过渡，柔和过渡，擦拭，溶解，褪色硬切等等
-《镜头边界检测，视频摘要》->《视频超分，自动中割》
+> 《镜头边界检测，视频摘要》->《视频超分，自动中割》
+
+> 什么是shot（参见[shotdetect.md](https://github.com/huaji0353/AnimeResearch/blob/master/shotdetect.md)） 硬切，与其他 （渐进过渡，柔和过渡，擦拭，溶解，褪色硬切等等
 
 * Shot_Action：（前景元素）人物或物体的动作
 > 《视频理解，文字描述视频合成》
