@@ -19,7 +19,7 @@
 ```静，斜向平移，纵向平移，旋转，视野扩大，渐变插入```
 > 《镜头边界检测，视频摘要》->《视频超分，自动中割》
 
-> 什么是shot（参见[shotdetect.md](https://github.com/huaji0353/AnimeResearch/blob/master/shotdetect.md)） 硬切，与其他 （渐进过渡，柔和过渡，擦拭，溶解，褪色硬切等等
+> 什么是shot（参见[shotdetect.md](https://github.com/huaji0353/AnimeResearch/blob/master/shotdetect.md)） 硬切与其他 （渐进过渡，柔和过渡，擦拭，溶解，褪色硬切等等
 
 ## Effects_Shot：在一个镜头內进行了怎么样的摄影，合成效果（后期）
 
@@ -38,10 +38,10 @@
 
 ## Shot_Content（需蒸馏Entity以保证质量）：分镜构图，全局实例
 
-```被子，床，玩偶，挂画，墙壁，相册，书，柜```
+```放射中心构图，仰角摄影，正视构图|被子，床，玩偶，挂画，墙壁，相册，书，柜```
 > 《文字描述图像（分镜）生成，镜头检索系统，美学学习》->《语义分割》
 
-## Effects_Audio：音声效果，（背景音乐，人物说话【非字幕式】）
+## Effects_Audio：音声效果
 
 ```周期，闹钟，鸟叫，对话声，独白，bgm```
 > 《声源分离，声源合成》->《视觉音频多模态学习》
