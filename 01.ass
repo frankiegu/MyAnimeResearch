@@ -16,9 +16,9 @@ Video File: F:/云下载/K-ON! All/K-ON! 2009 [BD 1920x1080 AVC FLAC]/K-ON! 2009
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 27
-Active Line: 42
-Video Position: 1387
+Scroll Position: 78
+Active Line: 88
+Video Position: 1753
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,44 +34,95 @@ Style: Comment,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.03,0:00:09.98,Shot_Content,,0,0,0,,人物，照片，墙壁
 Dialogue: 0,0:00:00.03,0:00:09.98,Entity,,0,0,0,,平泽唯，真锅和，4人，水手服，裙，O嘴，发卡，笑，眼睛，握，眯眼，V字手，圆柱体，叶，点，花，影，纸
-Dialogue: 0,0:00:00.03,0:00:09.98,Effects_Transition,,0,0,0,,顺序，渐变，视野扩大
-Dialogue: 0,0:00:00.03,0:00:30.15,Comment,,0,0,0,,展现少女的起居生活环境，从被闹钟叫醒开始，很有真实感的分镜
-Dialogue: 0,0:00:00.03,0:00:09.98,Effects_Audio,,0,0,0,,周期，闹钟，鸟叫
-Dialogue: 0,0:00:09.98,0:00:11.47,Effects_Transition,,0,0,0,,瞬时切换，平移
+Dialogue: 0,0:00:00.03,0:00:09.98,Effects_Shot,,0,0,0,,顺序，渐变，视野扩大
+Dialogue: 0,0:00:00.03,0:00:09.98,Effects_Transition,,0,0,0,,开始，渐变
+Dialogue: 0,0:00:09.98,0:00:11.47,Effects_Transition,,0,0,0,,硬切
+Dialogue: 0,0:00:09.98,0:00:11.47,Effects_Shot,,0,0,0,,平移
 Dialogue: 0,0:00:09.98,0:00:11.47,Shot_Content,,0,0,0,,玩偶，挂画，墙壁
 Dialogue: 0,0:00:11.50,0:00:12.95,Entity,,0,0,0,,唯自宅_起居室，裙，系带，衬衫，制服，书，书柜，相册，照片，墙壁
 Dialogue: 0,0:00:11.50,0:00:12.95,Shot_Content,,0,0,0,,书，书柜，制服，柜，墙壁
-Dialogue: 0,0:00:11.50,0:00:12.95,Effects_Transition,,0,0,0,,平移
-Dialogue: 0,0:00:13.02,0:00:14.50,Effects_Transition,,0,0,0,,平移
-Dialogue: 0,0:00:13.02,0:00:14.50,Entity,,0,0,0,,阳光，窗帘，手机，书，相册
+Dialogue: 0,0:00:11.50,0:00:12.95,Effects_Shot,,0,0,0,,平移
+Dialogue: 0,0:00:11.50,0:00:12.95,Effects_Transition,,0,0,0,,硬切
+Dialogue: 0,0:00:13.02,0:00:14.50,Effects_Transition,,0,0,0,,硬切
+Dialogue: 0,0:00:13.02,0:00:14.50,Effects_Shot,,0,0,0,,平移
+Dialogue: 0,0:00:13.02,0:00:14.50,Entity,,0,0,0,,窗帘，手机，书，相册
+Dialogue: 0,0:00:13.02,0:00:14.50,Effects_Shot,,0,0,0,,阳光，平移
 Dialogue: 0,0:00:13.02,0:00:14.50,Shot_Content,,0,0,0,,椅子，桌子，挂包，布
-Dialogue: 0,0:00:14.50,0:00:24.70,Effects_Transition,,0,0,0,,静
+Dialogue: 0,0:00:14.50,0:00:24.70,Effects_Transition,,0,0,0,,硬切
+Dialogue: 0,0:00:14.50,0:00:24.70,Effects_Shot,,0,0,0,,静
 Dialogue: 0,0:00:14.50,0:00:24.70,Entity,,0,0,0,,唯自宅_起居室，被子，玩偶，台灯，闹钟，柜，枕头，物，壁台
-Dialogue: 0,0:00:14.50,0:00:24.70,Shot_Content,,0,0,0,,床，起居室
+Dialogue: 0,0:00:14.50,0:00:24.70,Shot_Content,,0,0,0,,床，唯自宅_起居室
 Dialogue: 0,0:00:14.50,0:00:24.70,Shot_Action,,0,0,0,,身体，蠕动，伸手
-Dialogue: 0,0:00:24.70,0:00:27.07,Effects_Transition,,0,0,0,,静
+Dialogue: 0,0:00:24.70,0:00:27.07,Effects_Transition,,0,0,0,,硬切
+Dialogue: 0,0:00:24.70,0:00:27.07,Effects_Shot,,0,0,0,,静
 Dialogue: 0,0:00:24.70,0:00:27.07,Shot_Content,,0,0,0,,闹钟，手
 Dialogue: 0,0:00:24.70,0:00:27.07,Shot_Action,,0,0,0,,伸手，弄倒，握
-Dialogue: 0,0:00:27.07,0:00:30.17,Effects_Transition,,0,0,0,,静
+Dialogue: 0,0:00:27.07,0:00:30.17,Effects_Transition,,0,0,0,,硬切
+Dialogue: 0,0:00:27.07,0:00:30.17,Effects_Shot,,0,0,0,,静
 Dialogue: 0,0:00:27.07,0:00:30.17,Entity,,0,0,0,,唯自宅_起居室
 Dialogue: 0,0:00:27.07,0:00:30.17,Shot_Action,,0,0,0,,软，动作
-Dialogue: 0,0:00:30.17,0:00:33.95,Effects_Transition,,0,0,0,,静
+Dialogue: 0,0:00:00.03,0:00:30.15,Comment,,0,0,0,,展现少女的起居生活环境，从被闹钟叫醒开始，很有真实感的分镜
+Dialogue: 0,0:00:00.03,0:00:30.15,Effects_Audio,,0,0,0,,周期，闹钟，鸟叫，人声，叹气，摔落，呼吸
+Dialogue: 0,0:00:30.17,0:00:33.95,Effects_Transition,,0,0,0,,硬切
+Dialogue: 0,0:00:30.17,0:00:33.95,Effects_Shot,,0,0,0,,静
 Dialogue: 0,0:00:30.17,0:00:33.95,Entity,,0,0,0,,平泽忧，唯自宅_起居室
 Dialogue: 0,0:00:30.17,0:00:33.95,Effects_Shot,,0,0,0,,亮度增加
 Dialogue: 0,0:00:30.17,0:00:33.95,Shot_Action,,0,0,0,,走进，滑入
 Dialogue: 0,0:00:34.02,0:00:47.87,Shot_Action,,0,0,0,,俯卧撑，杂耍，仔细看，丢，握，摔倒，跑，转头，视线跟踪
-Dialogue: 0,0:00:34.02,0:00:47.87,Shot_Content,,0,0,0,,静
+Dialogue: 0,0:00:34.02,0:00:47.87,Effects_Shot,,0,0,0,,静
+Dialogue: 0,0:00:34.02,0:00:47.87,Effects_Transition,,0,0,0,,硬切
+Dialogue: 0,0:00:34.02,0:00:47.87,Shot_Content,,0,0,0,,人物镜头
 Dialogue: 0,0:00:34.02,0:00:47.87,Entity,,0,0,0,,平泽忧，平泽唯，唯自宅_起居室
+Dialogue: 0,0:00:47.87,0:00:52.02,Effects_Transition,,0,0,0,,硬切
 Dialogue: 0,0:00:47.87,0:00:52.02,Effects_Transition,,0,0,0,,静
 Dialogue: 0,0:00:47.87,0:00:52.02,Shot_Action,,0,0,0,,滑入，不稳，踏步，自由落体
 Dialogue: 0,0:00:47.87,0:00:52.02,Entity,,0,0,0,,唯自宅_客厅
 Dialogue: 0,0:00:47.87,0:00:52.02,Shot_Content,,0,0,0,,放射中心构图，背景，室内，沙发，桌，垫子，室内，转角，大门
-Dialogue: 0,0:00:52.02,0:00:56.20,Effects_Transition,,0,0,0,,静
+Dialogue: 0,0:00:52.02,0:00:56.20,Effects_Transition,,0,0,0,,硬切
+Dialogue: 0,0:00:52.02,0:00:56.20,Effects_Shot,,0,0,0,,静
 Dialogue: 0,0:00:52.02,0:00:56.20,Shot_Content,,0,0,0,,放射中心构图，身体，细节
 Dialogue: 0,0:00:52.02,0:00:56.20,Shot_Action,,0,0,0,,自由落体，爬，跑
-Dialogue: 0,0:00:52.02,0:00:56.20,Entity,,0,0,0,,唯_客厅，身背，裙子，纽扣，手，袜，腿，脚
-Dialogue: 0,0:00:56.20,0:00:57.82,Effects_Transition,,0,0,0,,静
+Dialogue: 0,0:00:52.02,0:00:56.20,Entity,,0,0,0,,唯自宅_客厅，身背，裙子，纽扣，手，袜，腿，脚
+Dialogue: 0,0:00:56.20,0:00:57.82,Effects_Transition,,0,0,0,,硬切
+Dialogue: 0,0:00:56.20,0:00:57.82,Effects_Shot,,0,0,0,,静
 Dialogue: 0,0:00:56.20,0:00:57.82,Shot_Content,,0,0,0,,食物，摆式，相册，电话，楼梯
 Dialogue: 0,0:00:56.20,0:00:57.82,Shot_Action,,0,0,0,,冲入，视线跟踪，跑，注视
-Dialogue: 0,0:00:56.20,0:00:57.82,Entity,,0,0,0,,平泽唯，唯自宅_客厅，餐桌，食物，开关，平台
-Dialogue: 0,0:00:57.82,0:00:59.82,Effects_Transition,,0,0,0,,
+Dialogue: 0,0:00:56.20,0:00:57.82,Entity,,0,0,0,,平泽唯，唯自宅_客厅，餐桌，食物，吐司，包装盒，开关，平台
+Dialogue: 0,0:00:57.82,0:01:00.09,Effects_Transition,,0,0,0,,亮度增加
+Dialogue: 0,0:00:57.82,0:01:00.09,Effects_Audio,,0,0,0,,开门，口齿不清
+Dialogue: 0,0:00:57.82,0:01:00.09,Shot_Content,,0,0,0,,放射中心构图，门，遮挡
+Dialogue: 0,0:00:57.82,0:01:00.09,Effects_Shot,,0,0,0,,阳光，静
+Dialogue: 0,0:00:57.82,0:01:00.09,Shot_Action,,0,0,0,,闯入，走进，走出
+Dialogue: 0,0:00:57.82,0:01:00.09,Entity,,0,0,0,,平泽唯，面部，面包，摊，红色，书包，校服，地板，墙壁，发卡，背景，唯自宅_玄关，吊灯，床，柜，楼梯，木头，瓷砖
+Dialogue: 0,0:00:30.17,0:01:00.09,Comment,,0,0,0,,展现环境后，少女被可能是家人的人叫醒，铺垫了设定，整段用强烈的中心构图展现少女居家的画面背景环境与夸张可爱的动作表现开始，用没有吃早餐的细节，到冲出门结束。
+Dialogue: 0,0:01:00.09,0:01:02.49,Effects_Transition,,0,0,0,,硬切
+Dialogue: 0,0:01:00.09,0:01:02.49,Effects_Shot,,0,0,0,,静
+Dialogue: 0,0:01:00.09,0:01:02.49,Shot_Content,,0,0,0,,背景主体，运动
+Dialogue: 0,0:01:00.09,0:01:02.49,Entity,,0,0,0,,拱门，楼房，神社，信箱，树，花坛，车，天线，唯自宅
+Dialogue: 0,0:01:00.09,0:01:02.49,Shot_Action,,0,0,0,,跑，跳，走出
+Dialogue: 0,0:01:02.49,0:01:07.19,Effects_Transition,,0,0,0,,硬切
+Dialogue: 0,0:01:02.49,0:01:07.19,Effects_Shot,,0,0,0,,静
+Dialogue: 0,0:01:02.49,0:01:07.19,Shot_Content,,0,0,0,,放射中心构图，背景，低视角
+Dialogue: 0,0:01:02.49,0:01:07.19,Shot_Action,,0,0,0,,冲入，说话，实现跟踪，转头，跑，跳，弯腰
+Dialogue: 0,0:01:02.49,0:01:07.19,Entity,,0,0,0,,人物，马路，扫把，铲子，蓝天，白云
+Dialogue: 0,0:01:07.19,0:01:08.66,Effects_Transition,,0,0,0,,硬切
+Dialogue: 0,0:01:07.19,0:01:08.66,Effects_Shot,,0,0,0,,静
+Dialogue: 0,0:01:07.19,0:01:08.66,Shot_Action,,0,0,0,,跑，走，静
+Dialogue: 0,0:01:07.19,0:01:08.66,Shot_Content,,0,0,0,,人物镜头，平泽唯，人物，马路，树，樱花，蓝天，背景，远景，山
+Dialogue: 0,0:01:07.19,0:01:08.66,Entity,,0,0,0,,屋，井盖，花坛，电线杆
+Dialogue: 0,0:01:08.66,0:01:10.17,Effects_Transition,,0,0,0,,硬切
+Dialogue: 0,0:01:08.66,0:01:10.17,Shot_Content,,0,0,0,,中心，人物
+Dialogue: 0,0:01:08.66,0:01:10.17,Effects_Shot,,0,0,0,,跟随，平移
+Dialogue: 0,0:01:08.66,0:01:10.17,Shot_Action,,0,0,0,,跑，摆动，周期
+Dialogue: 0,0:01:08.66,0:01:10.17,Entity,,0,0,0,,平泽唯，花坛，灌木，树干，窗，轮，路边，灯，栅栏
+Dialogue: 0,0:01:10.17,0:01:10.67,Effects_Transition,,0,0,0,,硬切
+Dialogue: 0,0:01:10.17,0:01:10.67,Effects_Shot,,0,0,0,,静
+Dialogue: 0,0:01:10.17,0:01:10.67,Shot_Content,,0,0,0,,静，马路
+Dialogue: 0,0:01:10.17,0:01:10.67,Entity,,0,0,0,,平泽唯，路边，吐司，书包，校服，文字，符号，马路，瓦，砖，树，拱门，楼房
+Dialogue: 0,0:01:10.17,0:01:10.67,Shot_Action,,0,0,0,,叼，捂嘴，立
+Dialogue: 0,0:01:10.67,0:01:11.92,Effects_Transition,,0,0,0,,硬切
+Dialogue: 0,0:01:10.67,0:01:11.92,Effects_Shot,,0,0,0,,闯入，遮挡
+Dialogue: 0,0:01:10.67,0:01:11.92,Shot_Action,,0,0,0,,经过，跑，甩手
+Dialogue: 0,0:01:10.67,0:01:11.92,Shot_Content,,0,0,0,,中心，人物，车
+Dialogue: 0,0:01:10.67,0:01:11.92,Entity,,0,0,0,,硬切
+Dialogue: 0,0:01:11.92,0:01:13.92,Effects_Transition,,0,0,0,,
