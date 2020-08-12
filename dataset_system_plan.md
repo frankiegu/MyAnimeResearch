@@ -1,7 +1,10 @@
 ## 格式混乱，请用raw模式打开此文件
 
 工程目标类似（见link.md）
+
 [2007.10937 MovieNet: A Holistic Dataset for Movie Understanding](http://movienet.site/)
+
+[投票机制的视频标注 2005.06111](https://github.com/CMU-CREATE-Lab/video-labeling-tool)
 
 实现可以泛用到电视剧，电影等标注系统上
 
@@ -30,13 +33,13 @@
 
 #### 标注采集
 TV series（电视剧），时空不连续但语义上下文连续的艺术方法
-标注AVA（原子片段）或(shot)[./shotdetect.md] 的采集定义 （背景，镜头无变化，前景人物变化）~ 场景切割 = 打时轴（标注工具的实现等价）
+标注AVA（原子片段）或[shot](../shotdetect.md) 的采集定义 （背景，镜头无变化，前景人物变化）~ 场景切割 = 打时轴（标注工具的实现等价）
 
 不同于通用视频目标跟踪，动作识别等（video_labeler，vatic，UltimateLabeling），固定镜头，保留了时空上的连续性
 动画的时间元素则是（例如sakugabooru），拥有时序复杂语义的片段(scene)，这是基本思路
 
 #### 任务
-用于 视频摘要，视频理解，视频压缩，视频风格迁移 等任务
+用于 视频摘要，[视频理解](../anime_Video_Understanding_dataset.md)，视频压缩，视频风格迁移 等任务
 > video summarization, video understanding,anime like video compression, video style transfer
 
 元信息：动画全名（索引 等meta data），动画公司，导演，分镜演出作监~（见link.md）
