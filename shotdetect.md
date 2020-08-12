@@ -5,6 +5,9 @@ https://en.wikipedia.org/wiki/Shot_transition_detection
 https://github.com/WalternativE/fableshotdetection
 http://fableshotdetection.azurewebsites.net/
 
+### 实现1
+[快速打轴，目标是实现video semantic spectrum的网络](https://www.bilibili.com/video/BV1ps411b7as?p=2)
+
 ### 术语 term
 A shot is a sequence of frames shot uninterruptedly by one camera. There are several film transitions usually used in film editing to juxtapose adjacent shots; In the context of shot transition detection they are usually group into two types
 
