@@ -14,7 +14,7 @@ COCO-GAN这样的坐标支持模型，对动漫这样尺寸不规则的数据集
 
 关于动漫scenecut；图片流一帧帧处理，那确实难 但如果用字幕，利用duration与文字内容，上去预测场景切割位置 然后用时间点反过来标注视频
 
-关于动漫scenecut；可以加速减速视频用于增广
+关于动漫scenecut；可以加速减速视频用于增广（CVPR2019 slowfast networks for video recognition）
 
 如今的低质量（贫穷）摄影，色彩设计对动画观感影响颇大，本来内容还行的动画，用了这种新技法，瞬间低了一个档次让观众没兴趣看，提出anime2anime
 
