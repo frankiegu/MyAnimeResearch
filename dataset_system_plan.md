@@ -1,6 +1,7 @@
 ## 格式混乱，请用raw模式打开此文件
 
-工程目标类似（见link.md）
+工程目标类似（见link
+）
 
 [2007.10937 MovieNet: A Holistic Dataset for Movie Understanding](http://movienet.site/)
 
@@ -33,16 +34,16 @@
 
 #### 标注采集
 TV series（电视剧），时空不连续但语义上下文连续的艺术方法
-标注AVA（原子片段）或[shot](../shotdetect.md) 的采集定义 （背景，镜头无变化，前景人物变化）~ 场景切割 = 打时轴（标注工具的实现等价）
+标注AVA（原子片段）或[shot](../master/shotdetect.md) 的采集定义 （背景，镜头无变化，前景人物变化）~ 场景切割 = 打时轴（标注工具的实现等价）
 
 不同于通用视频目标跟踪，动作识别等（video_labeler，vatic，UltimateLabeling），固定镜头，保留了时空上的连续性
 动画的时间元素则是（例如sakugabooru），拥有时序复杂语义的片段(scene)，这是基本思路
 
 #### 任务
-用于 视频摘要，[视频理解](../anime_Video_Understanding_dataset.md)，视频压缩，视频风格迁移 等任务
+用于 视频摘要，[视频理解](../master/anime_Video_Understanding_dataset.md)，视频压缩，视频风格迁移 等任务
 > video summarization, video understanding,anime like video compression, video style transfer
 
-元信息：动画全名（索引 等meta data），动画公司，导演，分镜演出作监~（见link.md）
+元信息：动画全名（索引 等meta data），动画公司，导演，分镜演出作监~（见../master/link.md）
 视频理解：分镜(scene)是片段(shot)集合，分镜语义（摄影技法，分镜语义，角色行为等等）
 （保留这些，将使此数据集可做的任务十分多样化）
 音频理解：补丁包，提供音频，字幕理解数据集（效果音，角色对话，背景音乐）
