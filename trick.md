@@ -1,3 +1,5 @@
+巡礼的图片对应动漫scene,Semantic对不上啊，然后有个Semantic Correspondence任务，感觉能用
+
 快速打（标注）shot：[灵感](https://www.bilibili.com/video/BV1ps411b7as?p=2)，展示一维时序，可能是shot的地方
 
 COCO-GAN这样的坐标支持模型，对动漫这样尺寸不规则的数据集可能非常有效
