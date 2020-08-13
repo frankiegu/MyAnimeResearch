@@ -5,6 +5,14 @@ https://en.wikipedia.org/wiki/Shot_transition_detection
 https://github.com/WalternativE/fableshotdetection
 http://fableshotdetection.azurewebsites.net/
 
+### videocut
+https://github.com/mifi/lossless-cut
+https://github.com/bartekmotyl/simple-video-cutter
+https://github.com/kanehekili/VideoCut
+
+### timeline
+https://github.com/PixarAnimationStudios/OpenTimelineIO
+
 ### 实现1
 [快速打轴，目标是实现video semantic spectrum的网络](https://www.bilibili.com/video/BV1ps411b7as?p=2)
 
