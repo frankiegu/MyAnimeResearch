@@ -28,3 +28,7 @@
 [coview2019](http://cvlab.hanyang.ac.kr/coview2019/)
 
 [THUMOS](https://www.crcv.ucf.edu/THUMOS14/download.html)
+
+### 有用的仓库
+[用检测模型，自动字幕（SRT格式）](https://github.com/brain-bzh/videoannotation)
+
