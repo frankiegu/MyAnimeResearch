@@ -9,9 +9,13 @@ http://fableshotdetection.azurewebsites.net/
 https://github.com/mifi/lossless-cut
 https://github.com/bartekmotyl/simple-video-cutter
 https://github.com/kanehekili/VideoCut
+（with subtitle cut）https://github.com/antiboredom/videogrep
 
 ### timeline
 https://github.com/PixarAnimationStudios/OpenTimelineIO
+
+### 标注工具设计
+预训练的标注CNN，逐帧转成1D spectrum，可视化标注
 
 ### 实现1
 [快速打轴，目标是实现video semantic spectrum的网络](https://www.bilibili.com/video/BV1ps411b7as?p=2)
