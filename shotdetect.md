@@ -5,6 +5,9 @@ https://en.wikipedia.org/wiki/Shot_transition_detection
 https://github.com/WalternativE/fableshotdetection
 http://fableshotdetection.azurewebsites.net/
 
+### video analytics
+vapoursynth hist.Color2
+
 ### videocut
 https://github.com/mifi/lossless-cut
 https://github.com/bartekmotyl/simple-video-cutter
