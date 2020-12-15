@@ -70,3 +70,12 @@ https://github.com/hoffsupes/Shot-boundary-detection-using-SVM-s-Aritificial-Neu
 The Linear SVM以92.99％的分类精度实现最佳性能。
 
 https://pyscenedetect.readthedocs.io/en/latest/
+
+
+### video Generation, Temporal 是关键词
+kinetics-600 https://blog.csdn.net/liuxiao214/article/details/80144375
+YouTube annotation clips
+youtubeVOS.py
+https://github.com/Fafa87/SEP/blob/master/tests/test_loaders/test_youtube.py
+DVD-GAN: https://github.com/MaxVoloskiy/CV_Assignment3/blob/master/README.md
+
