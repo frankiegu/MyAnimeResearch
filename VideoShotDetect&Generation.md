@@ -23,6 +23,8 @@ https://github.com/PixarAnimationStudios/OpenTimelineIO
 ### 实现1
 [快速打轴，目标是实现video semantic spectrum的网络](https://www.bilibili.com/video/BV1ps411b7as?p=2)
 
+用视频边框/边界做特征，做shot检测/过渡分类
+
 ### 术语 term
 A shot is a sequence of frames shot uninterruptedly by one camera. There are several film transitions usually used in film editing to juxtapose adjacent shots; In the context of shot transition detection they are usually group into two types
 
