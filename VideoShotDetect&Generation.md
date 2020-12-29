@@ -81,3 +81,12 @@ youtubeVOS.py
 https://github.com/Fafa87/SEP/blob/master/tests/test_loaders/test_youtube.py
 DVD-GAN: https://github.com/MaxVoloskiy/CV_Assignment3/blob/master/README.md
 
+### 1
+分镜术语 https://www.utdallas.edu/atec/midori/Handouts/camera.htm#shot
+动画分镜语言 https://www.bilibili.com/video/BV1Es41147jq
+anitama存档
+动画在动起来之前（上） - Anitama
+关于画面构成与layout（上） - Anitama
+演出到底是干什么的 - Anitama
+传统和现代的碰撞（下） - Anitama
+关于画面构成与layout（上）
