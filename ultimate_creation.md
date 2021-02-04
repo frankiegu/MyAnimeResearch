@@ -12,7 +12,7 @@ rand gen
 condition gen
 SR
 inpaint
-renorm
+reNormalization
 retouching
 Composite/Harmonization
 stylization
@@ -26,12 +26,19 @@ un-supervised/semi-supervised tag/label
 
 整理调查发现，GAN/生成模型可用于创作的，无非需要的是，素材/资料库或者anime的智能图像处理
 
+rand gen/condition gen 智能素材库
 
-风格化：如理现实照片
+Reconstruction 用于3D-2D软件，常规图像等等间解耦，通用数据格式研究方向
 
-语义迁移，现实照片，
+semantic transfer “画风”通用模型
 
-## 未来形态
+stylization 用于图像滤镜，风格化
+
+retouching，Harmonization 用于结合常规图像与简单的修改融合
+
+inpaint，SR 还有一些小工具
+
+## 未来形式
 
 xx老师想要画一个梗图(meme)
 
@@ -67,13 +74,16 @@ xx老师想要画一个梗图(meme)
 
 [3]风格化支持一般图像融合
 
-## 未来方向
-生态圈是由任务组成的。
 
-素材库研究无法向前，tag/label相关的种类少
+## 现况&未来方向
+生态圈是由任务组成的。很多任务都是不必要的，不如直接重建生态圈，AI辅助创作是一个新生态圈
 
-种类指：需要具体细分，比如我说帽子,衣服
+### 不必要的任务：
 
-智能图像处理，SR，inpaint，Reconstruction都是基建
+比如上色，这个问题极其困难，而且从线稿上色入手，这个语义实在是太难逆了，并且自由度极低耦合性高无法有图像处理软件参与
+
+### 研究无法向前（都是基建）
+
+tag/label相关检测分类分割的种类少，可以有非常多的具体细分
 
 
